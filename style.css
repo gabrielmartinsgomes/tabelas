@@ -1,0 +1,13 @@
+tr, th, td {
+    border: 2px solid black;
+    text-align: center;
+    padding: 5px;
+}
+body{
+    font-size: 30px;
+    background-color: rgb(63, 63, 196);
+}
+table{
+    width: 100%;
+    background-color: white;
+}
